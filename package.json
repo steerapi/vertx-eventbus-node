@@ -1,0 +1,15 @@
+{
+    "name": "node-vertxbus",
+    "author": "Surat Teerapittayanon",
+    "version": "0.1.0",
+    "keywords": ["websockets", "websocket", "sockjs"],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/steerapi/vertx-eventbus-node.git"
+    },
+    "main": "index",
+    "description": "VertXBus for node",
+    "dependencies": {
+        "sockjs-client-ws": "*"
+    }
+}
