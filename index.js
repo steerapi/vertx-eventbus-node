@@ -1,1 +1,1 @@
-module.exports = require('./lib/vertxBus.js');
+module.exports = require('./lib/vertxbus.js');
